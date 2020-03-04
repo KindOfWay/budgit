@@ -3,10 +3,10 @@ The main purpose of this mod will be to provide a currency interface for my othe
 mods
 
 ## Added Commands
-###/budgit
+### /budgit
 Display the current amount of currency you have
 
-###/pay <player> <amount>
+### /pay <player> <amount>
 Send <amount> of currency to <player>
 
 ## Added Items
