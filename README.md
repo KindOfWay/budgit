@@ -15,7 +15,7 @@ A credit card, when used with right click, displays the current amount of
 currency. The main purpose of this item is to be used with other mods to engage
 in specific actions. One example will be Kaysino (in development)
 
-##Configuration Options
+## Configuration Options
 In budgit-server.toml change the property of serverCurrencyString to change the
 type of currency displayed ingame
 budgit-client.toml is currenly unused, this will find use in later versions.
