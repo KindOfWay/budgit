@@ -1,0 +1,8 @@
+{
+	"item.budgit.vesa_card": "Vesa Card",
+	"messages.budgit.currency.tag": "Budgit",
+	"messages.budgit.currency.status": "You currently have %s",
+	"messages.budgit.currency.send.status": "You send %s%s to %s",
+	"messages.budgit.currency.receive.status": "You received %s%s from %s",
+	"messages.budgit.currency.pay.fail": "You don't have sufficient funds to pay"
+}

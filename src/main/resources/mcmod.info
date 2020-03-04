@@ -1,0 +1,16 @@
+[
+{
+  "modid": "budgit",
+  "name": "budgit",
+  "description": "Budgit a Minecraft currency mod",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "http://test.com",
+  "updateUrl": "http://test.com",
+  "authorList": ["KindOfWay"],
+  "credits": "The Forge and FML guys",
+  "logoFile": "budgit.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]
